@@ -1,0 +1,7 @@
+__pycache__/
+.ipynb_checkpoints/
+*.zip
+dataset/
+*.h5
+*.keras
+.venv/
